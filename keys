@@ -1,0 +1,10 @@
+# Essential multimedia hotkeys for IceWM.
+
+key "XF86AudioLowerVolume"  wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-
+key "XF86AudioRaiseVolume"  wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+
+key "XF86AudioMute"         wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
+key "XF86MonBrightnessDown" brightnessctl set 10%-
+key "XF86MonBrightnessUp" brightnessctl set +10%
+key "Print" gnome-screenshot 
+key "Ctrl+Alt+T" "kitty"
+key "Ctrl+Alt+E" "thunar"

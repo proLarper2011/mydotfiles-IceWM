@@ -1,0 +1,32 @@
+# This is ProLarper2011's IceWM own config file.
+# Make sure to move this to ~/.icewm, create the directory if you havent did so.
+
+# Make sure some useless stuff is disabled.
+
+CPUStatusShowCpuFreq=0
+CPUStatusShowRamUsage=0 
+CPUStatusShowSwapUsage=0 
+EnableAddressBar=0 
+FocusRequestFlashInterval=0  
+ShowAbout=0
+ShowFocusModeMenu=0
+ShowHelp=0
+ShowWorkspaceStatus=0
+ShowWindowList=0
+TaskBarShowCPUStatus=0
+TaskBarShowMEMStatus=0
+TaskBarShowMailboxStatus=0
+TaskBarShowNetStatus=0
+TaskBarShowWindowListMenu=0
+TaskbarButtonWidthDivisor=8
+WorkspaceNames="  1  ", "  2  ", "  3  "
+TaskBarShowShowDesktopButton=0
+
+# Hotkeys and keyboard stuff.
+
+KeyWinClose="Super+Shift+Q"
+KeyWinFullscreen="Super+Shift+F"
+KeyWinMaximize="Alt+Shift+F"
+# KeyboardLayouts="" # Optional, but, if you didnt set a dedicated keyboard layout system-wide, u cant set one for IceWM.
+
+# Obs: This config is better and made to be used alongside IcePick theme, made by Vimux, an old theme for IceWM.
