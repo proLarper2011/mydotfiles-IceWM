@@ -1,7 +1,7 @@
 # This is ProLarper2011's IceWM own config file.
 # Make sure to move this to ~/.icewm, create the directory if you havent did so.
 
-# Make sure some useless stuff is disabled.
+# Disabling some useless stuff.
 
 CPUStatusShowCpuFreq=0
 CPUStatusShowRamUsage=0 
