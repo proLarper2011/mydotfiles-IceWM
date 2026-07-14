@@ -1,7 +1,7 @@
 # Just my custom default IceWM config. 
 You can get it by yourself with:
 
-`git clone https://github.com/proLarper2011/mydotfiles_IceWM` if you want.
+`git clone https://github.com/proLarper2011/mydotfiles-IceWM` if you want.
 
 Recommended for users who want an minimalist and ready-to-go IceWM config.
 
